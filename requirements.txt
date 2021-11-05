@@ -84,8 +84,6 @@ pyzmq==22.3.0
 qtconsole==5.1.1
 QtPy==1.11.2
 requests==2.26.0
-scikit-learn==1.0.1
-scipy==1.8.0.dev0+1921.c30fefc
 seaborn==0.11.2
 Send2Trash==1.8.0
 six==1.16.0
